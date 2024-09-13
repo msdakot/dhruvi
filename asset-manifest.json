@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dhruvi/static/css/main.3ff1426f.css",
-    "main.js": "/dhruvi/static/js/main.d13a0c7e.js",
+    "main.js": "/dhruvi/static/js/main.d6cc664c.js",
     "static/js/453.0f893589.chunk.js": "/dhruvi/static/js/453.0f893589.chunk.js",
     "index.html": "/dhruvi/index.html",
     "main.3ff1426f.css.map": "/dhruvi/static/css/main.3ff1426f.css.map",
-    "main.d13a0c7e.js.map": "/dhruvi/static/js/main.d13a0c7e.js.map",
+    "main.d6cc664c.js.map": "/dhruvi/static/js/main.d6cc664c.js.map",
     "453.0f893589.chunk.js.map": "/dhruvi/static/js/453.0f893589.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ff1426f.css",
-    "static/js/main.d13a0c7e.js"
+    "static/js/main.d6cc664c.js"
   ]
 }
